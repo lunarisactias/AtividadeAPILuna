@@ -1,0 +1,4 @@
+repository "2025_API_Jogos/AulaAPI@4673800031264@cloud"
+  path "/"
+    br "/main"
+    co "/main"
